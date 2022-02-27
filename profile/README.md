@@ -4,7 +4,8 @@ This is the offical Github Page of
 <h3 align="center"> Data_Informatics | Artificial Intelligence | Deep_Learning | Quantum Computing machine learning </h3>
 
 🙋‍♀️ 
-#A short introduction:
+
+#Lab Introduction:
 Knowelege Based Systems Lab Is one of the Lab in National University of Sciences and Technolgy (NUST) Islamabad H12, Pakistan. In the Department of Computing at School of Electrical Engenering and Computer Sciece(SEECS). This lab is Headed by 
 
 <a href="https://scholar.google.com/citations?user=JKdMISAAAAAJ&hl=en"><b>Dr. Rabia Irfan (Assistant Proffesor)<br> </a> and <a href="https://scholar.google.com.pk/citations?user=fH1iosAAAAAJ&hl=en"><br>Dr Sharifullah khan.<br></a>
