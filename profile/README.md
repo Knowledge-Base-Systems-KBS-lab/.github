@@ -31,11 +31,22 @@ Our goal is to further Research in Feilds of Computer Science
 
 ★ Big Data
 
-# **This Page contains follwing major projects That we have worked on:**
+# **In this Lab we have worked on follwing major projects:**
 1. <a href="https://github.com/Knowledge-Base-Systems-KBS-lab/AI_based_Agent_for_Sketch_to_Real_Portrait_for_criminal_detection">
     <b>AI based Agent for Sketch to Real Portrait for criminal detection<br></a>
-2.<a href="https://github.com/Knowledge-Base-Systems-KBS-lab/Epidimic_Control_Portal-ECP-">
+   2.<a href="https://github.com/Knowledge-Base-Systems-KBS-lab/Epidimic_Control_Portal-ECP-">
     <b>Epidimic Control Portal<br></a>
+  
+    ![architecture](https://user-images.githubusercontent.com/20832374/155979858-c51ea571-a036-496c-96a2-8c16b5898940.png)
+    AI based Agent for Sketch to Real Portrait for criminal detection
+    Demo:
+
+    https://user-images.githubusercontent.com/20832374/155980148-5e3ba593-5414-485d-8a9c-85042da01877.mp4
+
+
+    
+    ![0001](https://user-images.githubusercontent.com/20832374/155979894-efe3e27a-d54c-432c-b28d-48eafcd356bf.jpg)
+    Epidimic Control Portal
     
 
 <!--
