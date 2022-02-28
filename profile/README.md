@@ -1,5 +1,5 @@
 
-<img src="https://user-images.githubusercontent.com/20832374/155897677-0c6391cc-312f-4454-989b-53bdc1a74595.png" width="400" height="250">
+<img src="https://user-images.githubusercontent.com/20832374/155897677-0c6391cc-312f-4454-989b-53bdc1a74595.png" width="400" height="200">
 🙋‍♀️ 
 This is the offical Github Page of 
 # Knowledge-Base-Systems-KBS-lab SEECS NUST, H12, Islamabad, Pakistan. 
