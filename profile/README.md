@@ -49,15 +49,16 @@ Our goal is to further Research in Feilds of Computer Science
     
     ![0001](https://user-images.githubusercontent.com/20832374/155979894-efe3e27a-d54c-432c-b28d-48eafcd356bf.jpg)
     
-  # Other Projects:
-    1. <a href="https://github.com/Knowledge-Base-Systems-KBS-lab/Air_Quality_index_Deep_learning">
-    <b>Air Quality Index (Machine Learning)<br></a>
-    2. <a href="https://github.com/Knowledge-Base-Systems-KBS-lab/Classification_of_Garbage-Machine_learning-">
-    <b>Classification of Garbage (Machine Learning)<br></a> 
-    3. <a href="https://github.com/Knowledge-Base-Systems-KBS-lab/Analysis_of_sentiment_from_tweets">
-    <b>Sentiment Analysis of Tweets (ML & Datamining)<br></a>
-    4. <a href="https://github.com/Knowledge-Base-Systems-KBS-lab/Agritecture_Plants_Health_Detection_Based_on_Suseceptibility_to_disease">
-    <b>Plants_Health_Detection_Based_on_Suseceptibility_to_disease (Deep Learning)<br></a> 
+  # **Other Projects:**
+  1. <a href="https://github.com/Knowledge-Base-Systems-KBS-lab/Air_Quality_index_Deep_learning"> <b>Air Quality Index (Machine Learning)<br></a>
+    ![155895670-047434e7-7554-4791-a7b2-ec5342f8757a](https://user-images.githubusercontent.com/20832374/155981634-df65c3e4-8ef2-4852-bb1e-4112e182ad8f.png)
+
+  2. <a href="https://github.com/Knowledge-Base-Systems-KBS-lab/Classification_of_Garbage-Machine_learning-"><b>Classification of Garbage (Machine Learning)<br></a> 
+    
+  3. <a href="https://github.com/Knowledge-Base-Systems-KBS-lab/Analysis_of_sentiment_from_tweets"><b>Sentiment Analysis of Tweets (NLP, Deeplearning & Data-mining)<br></a>![155898387-7c4c240e-797a-4fe3-9ede-a8513530d2ae](https://user-images.githubusercontent.com/20832374/155981553-fea1cca9-1fb7-4fce-a82e-a0abd752108b.png)
+
+    
+  4. <a href="https://github.com/Knowledge-Base-Systems-KBS-lab/Agritecture_Plants_Health_Detection_Based_on_Suseceptibility_to_disease"><b>Plants_Health_Detection_Based_on_Suseceptibility_to_disease (Deep Learning)<br></a> 
 
 <!--
 
