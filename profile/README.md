@@ -1,10 +1,11 @@
 
+<img src="https://user-images.githubusercontent.com/20832374/155897677-0c6391cc-312f-4454-989b-53bdc1a74595.png" width="400" height="300">
 🙋‍♀️ 
 This is the offical Github Page of 
-# Knowledge-Base-Systems-KBS-lab
+# Knowledge-Base-Systems-KBS-lab SEECS NUST, H12, Islamabad, Pakistan. 
 <h3 align="center"> Data_Informatics | Artificial Intelligence | Deep_Learning | Quantum Computing machine learning </h3>
 
-<img src="https://user-images.githubusercontent.com/20832374/155897677-0c6391cc-312f-4454-989b-53bdc1a74595.png" width="200" height="150">![Screenshot 2022-02-12 160942](https://user-images.githubusercontent.com/20832374/155897715-072b5aad-38ec-41e4-b903-075855a198bb.png)
+![Screenshot 2022-02-12 160942](https://user-images.githubusercontent.com/20832374/155897715-072b5aad-38ec-41e4-b903-075855a198bb.png)
 
 
 
