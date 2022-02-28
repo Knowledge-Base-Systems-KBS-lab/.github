@@ -33,21 +33,31 @@ Our goal is to further Research in Feilds of Computer Science
 
 # **In this Lab we have worked on follwing major projects:**
 1. <a href="https://github.com/Knowledge-Base-Systems-KBS-lab/AI_based_Agent_for_Sketch_to_Real_Portrait_for_criminal_detection">
-    <b>AI based Agent for Sketch to Real Portrait for criminal detection<br></a>
+    <b>AI based Agent for Sketch to Real Portrait for criminal detection (Deep Learning)<br></a>
    2.<a href="https://github.com/Knowledge-Base-Systems-KBS-lab/Epidimic_Control_Portal-ECP-">
-    <b>Epidimic Control Portal<br></a>
+    <b>Epidimic Control Portal (Web-Portal)<br></a>
   
     ![architecture](https://user-images.githubusercontent.com/20832374/155979858-c51ea571-a036-496c-96a2-8c16b5898940.png)
     AI based Agent for Sketch to Real Portrait for criminal detection
+    
     Demo:
 
     https://user-images.githubusercontent.com/20832374/155980148-5e3ba593-5414-485d-8a9c-85042da01877.mp4
 
 
-    
-    ![0001](https://user-images.githubusercontent.com/20832374/155979894-efe3e27a-d54c-432c-b28d-48eafcd356bf.jpg)
     Epidimic Control Portal
     
+    ![0001](https://user-images.githubusercontent.com/20832374/155979894-efe3e27a-d54c-432c-b28d-48eafcd356bf.jpg)
+    
+  # Other Projects:
+    1. <a href="https://github.com/Knowledge-Base-Systems-KBS-lab/Air_Quality_index_Deep_learning">
+    <b>Air Quality Index (Machine Learning)<br></a>
+    2. <a href="https://github.com/Knowledge-Base-Systems-KBS-lab/Classification_of_Garbage-Machine_learning-">
+    <b>Classification of Garbage (Machine Learning)<br></a> 
+    3. <a href="https://github.com/Knowledge-Base-Systems-KBS-lab/Analysis_of_sentiment_from_tweets">
+    <b>Sentiment Analysis of Tweets (ML & Datamining)<br></a>
+    4. <a href="https://github.com/Knowledge-Base-Systems-KBS-lab/Agritecture_Plants_Health_Detection_Based_on_Suseceptibility_to_disease">
+    <b>Plants_Health_Detection_Based_on_Suseceptibility_to_disease (Deep Learning)<br></a> 
 
 <!--
 
