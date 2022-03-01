@@ -3,7 +3,9 @@
 🙋‍♀️ 
 This is the offical Github Page of 
 
-# Knowledge-Base-Systems-KBS-lab SEECS NUST, H12, Islamabad, Pakistan.
+# Knowledge Base Systems KBS lab 
+
+SEECS NUST, H12, Islamabad, Pakistan.
 <h3 align="center"> Data_Informatics | Artificial Intelligence | Deep_Learning | Quantum Computing machine learning </h3>
 
 ![Screenshot 2022-02-12 160942](https://user-images.githubusercontent.com/20832374/155897715-072b5aad-38ec-41e4-b903-075855a198bb.png)
